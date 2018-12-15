@@ -6,4 +6,5 @@ public class TestBase {
 	}
 	//this will be sent in test branch again, now I will merge this into master
 	//this will be sent into master again
+	//commit into newbranch
 }
